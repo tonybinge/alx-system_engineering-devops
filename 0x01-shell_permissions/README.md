@@ -1,1 +1,1 @@
-Task 0 switch file using 'su'
+Task 0 use su to switch files
